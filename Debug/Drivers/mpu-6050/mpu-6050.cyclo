@@ -1,0 +1,6 @@
+../Drivers/mpu-6050/mpu-6050.c:45:9:MPU6050_Init	2
+../Drivers/mpu-6050/mpu-6050.c:78:6:MPU6050_Read_Accel	1
+../Drivers/mpu-6050/mpu-6050.c:100:6:MPU6050_Read_Gyro	1
+../Drivers/mpu-6050/mpu-6050.c:122:6:MPU6050_Read_Temp	1
+../Drivers/mpu-6050/mpu-6050.c:135:6:MPU6050_Read_All	7
+../Drivers/mpu-6050/mpu-6050.c:189:8:Kalman_getAngle	1
